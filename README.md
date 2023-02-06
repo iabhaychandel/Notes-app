@@ -1,7 +1,7 @@
 # Notes app
  This is an app that takes notes and it is build using JavaScript
  
-This project havw dark mode also and little animated logo 
+This project have dark mode also and little animated logo 
 
 1. The Upper left side you can see the animated logo 
 2. The upper right side we have the dark mode button the light mode is defult.
